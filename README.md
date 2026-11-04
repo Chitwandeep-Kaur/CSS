@@ -57,7 +57,7 @@ A structured collection of programs covering CSS concepts in a progressive learn
 ---
 
 ## ♡ Projects
-
+| [♡Programs♡](./♡Programs♡/) | 
 Practical projects to apply CSS concepts, improve design skills, and develop a better understanding of real-world webpage styling.
 
 | Project | Description |
@@ -73,7 +73,7 @@ Practical projects to apply CSS concepts, improve design skills, and develop a b
 ---
 
 ## ♡ Practice
-
+| [♡Practice♡](./♡Practice♡/README.md) |
 A dedicated space for experimenting with CSS, strengthening styling fundamentals, and solving small design challenges.
 
 | Folder | Description |
